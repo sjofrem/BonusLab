@@ -18,3 +18,5 @@ Description: In this lab we will continue to improve our linreg package by inclu
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/sjofrem/BonusLab
+BugReports: https://github.com/sjofrem/BonusLab/issues
